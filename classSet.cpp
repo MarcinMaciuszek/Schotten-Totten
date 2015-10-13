@@ -9,7 +9,6 @@ Set::Set()
     mayValue = 27;  //najwieksza wartosc kart
 }
 
-
 //----------OPERATOR >=----------//
 bool Set::operator>=(Set s)
 {

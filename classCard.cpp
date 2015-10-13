@@ -17,7 +17,6 @@ Card::Card()
     }
 }
 
-
 //----------KONSTRUKTOR----------//
 Card::Card(int v, char c)
 {

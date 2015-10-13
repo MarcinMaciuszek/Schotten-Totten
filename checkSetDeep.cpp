@@ -1,6 +1,5 @@
 #include "head.h"
 
-
 //---------------AI IMPROVE----------------//
 int Player::improveAI(int st, int v, vector<Card> &check)           //zwraca sume wartosci 2 kart o tej samej wartosci
 {
