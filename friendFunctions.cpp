@@ -245,5 +245,3 @@ void showOuts(Player &p1, Player &p2)
     }
     cout << "*Outy dla najlepszego ukladu wyswietlane gdy zagranie zostanie chociaz jedna karta." << endl << endl;
 }
-
-

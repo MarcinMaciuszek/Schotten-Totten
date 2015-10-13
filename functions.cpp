@@ -82,12 +82,3 @@ int gameMode()
     }
     return c;
 }
-
-//----------FLAME GENERATOR----------//
-void flameGenerator()
-{
-    ; //bonus
-}
-
-
-

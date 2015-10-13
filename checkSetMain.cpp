@@ -206,8 +206,3 @@ int Player::checkSet0(int st, vector<Card> &check)
     if(checkSetDeep0(st, check))
         return 1;
 }
-
-
-
-
-

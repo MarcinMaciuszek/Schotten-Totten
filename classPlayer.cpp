@@ -331,6 +331,3 @@ int Player::win(int *sc)
     }
     return 0;
 }
-
-
-

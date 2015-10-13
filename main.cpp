@@ -74,23 +74,6 @@ int main()
     }
 
     cout << endl << "Koniec programu." << endl;
-    //system("pause");
     getch();        //odpalanie progamu z exe
 }
 
-
-        //!!!! do zrobienia
-/*
-         sprawdzenie funkcji check
-
-
-        //bajery
-        obrazenie gracza jezlei przegra z komputerem
-        wlacznie wylaczanie max kombinacji
-        ustawienie rozmiaru okna
-
-
-        //!!!! deluxe
-        karty akcji
-
-    */
